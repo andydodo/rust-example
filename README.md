@@ -1,1 +1,1 @@
-# rust-example
+# rust_example
